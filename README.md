@@ -15,9 +15,9 @@ Instead of manually searching for songs, you can simply tell RhythmMind what you
 ## 🛠️ Tech Stack
 - **Programming Languages**: Electron.js, Python (FastAPI)
 - **Machine Learning**: Python, TensorFlow, PyTorch, scikit-learn, Librosa (for audio processing)
-- **Backend**: FastAPI/Django/Node.js (TBD)
 - **Database**: PostgreSQL
-- **Cloud Services**: Amazon SageMaker 
+- **Cloud Services**: Amazon SageMaker
+- **Vector Database**: FAISS/ Pinecone 
 <br>
 
 ## 🚀 Key Features
