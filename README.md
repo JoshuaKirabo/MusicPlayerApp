@@ -6,11 +6,11 @@ RhythmMind is an AI-driven music player designed primarily for users who store m
 
 ## How RhythmMind Understands You
 ** Instead of manually searching for songs, you can simply tell RhythmMind what you're feeling:
-
-** - "I'm in the mood for West Coast beats." – AI curates a playlist with tracks that match that style.
-** - "Give me songs that sound like Tattoo by Fireboy." – AI finds similar tracks based on melody, instrumentation, and rhythm.
-** - "I want acrobatic flows." – AI detects high-energy tracks with fast-paced rapping or vocals.
-** - "Take me back to summer 2021." – AI remembers the songs you loved at that time and recreates the vibe.
+** - "I'm in the mood for West Coast beats." – AI curates a playlist with tracks that match that style. 
+** - "Give me songs that sound like Tattoo by Fireboy." – AI finds similar tracks based on melody, instrumentation, and rhythm. 
+** - "I want acrobatic flows." – AI detects high-energy tracks with fast-paced rapping or vocals. 
+** - "Take me back to summer 2021." – AI remembers the songs you loved at that time and recreates the vibe. 
+<br>
 
 ## 🛠️ Tech Stack
 - **Programming Languages**: Python, JavaScript (React Native/Flutter TBD)
@@ -29,6 +29,7 @@ RhythmMind is an AI-driven music player designed primarily for users who store m
 5. Data-Driven Insights – Provides detailed listening trends and historical music preferences
 6. Smart Song Transitions – Ensures smooth, intelligent crossfades and transitions between songs
 7. Intuitive UI/UX – Designed for a seamless and engaging user experience
+<br>
 
 ## 📌 System Architecture
 1. **Frontend** (React Native/Flutter): User interface and interactions
@@ -36,6 +37,7 @@ RhythmMind is an AI-driven music player designed primarily for users who store m
 3. **ML Engine** (TensorFlow/PyTorch): Processes song features and user preferences
 4. **Database** (PostgreSQL/Firebase): Stores user data, preferences, and song metadata
 5. **Cloud Services** (AWS/GCP/Azure): Manages storage, AI model deployment, and scalability
+<br>
 
 ## 🚀 Installation & Setup (TBD)
 ```sh
@@ -49,6 +51,7 @@ pip install -r requirements.txt
 # Run backend server
 uvicorn app.main:app --reload
 ```
+<br>
 
 ## 📌 Future Enhancements
 - ** Spotify & Apple Music Integration
@@ -56,9 +59,11 @@ uvicorn app.main:app --reload
 - ** Vocal Sentiment Analysis** – Analyzes lyrics sentiment for better recommendations
 - ** Social Playlist Sharing** – Personalized collaborative playlist generation
 - ** Adaptive Playlists for Activities – Auto-generates playlists for workouts, road trips, study sessions, and relaxation based on user preferences
+<br>
 
 ## 🔥 Why RhythmMind?
 Unlike conventional music apps, RhythmMind is built for **personalized AI-driven curation**, ensuring a **seamless, intelligent** listening experience. With real-time adaptation, deep ML integration, and an intuitive design, it **learns and grows** with each interaction.
+<br>
 
 ## 🤝 Contributing
 Want to contribute? Fork the repo, create a new branch, and submit a PR!
@@ -67,11 +72,13 @@ git checkout -b feature-branch
 git commit -m "Add new feature"
 git push origin feature-branch
 ```
+<br>
 
 ## 📌 Contact & Links
 - **GitHub**: [Repo Link](#) (Coming Soon)
 - **Website**: [Website Link](#) (Coming Soon)
 - **Email**: your.email@example.com
+<br>
 
 🎶 **Let AI handle the music, you enjoy the rhythm!**
 
