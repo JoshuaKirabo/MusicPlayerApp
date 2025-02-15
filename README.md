@@ -11,6 +11,7 @@ RhythmMind is an AI-driven music player that dynamically curates playlists based
 - **Cloud Services**: AWS/GCP/Azure (TBD)
 - **Mobile Development**: React Native/Flutter (TBD)  
 <br>
+
 ## 🚀 Key Features
 🎶 AI-Powered Playlists – Dynamically generated playlists based on BPM, mood, and rhythm analysis.
 🗨️ Chat-Based Interaction – Users can type prompts like "Take me back to summer 2021" for AI-driven playlist generation
