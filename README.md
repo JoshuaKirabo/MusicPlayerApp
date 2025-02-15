@@ -64,6 +64,7 @@ uvicorn app.main:app --reload
 ## 🔥 Why RhythmMind?
 Unlike conventional music apps, RhythmMind is built for **personalized AI-driven curation**, ensuring a **seamless, intelligent** listening experience. With real-time adaptation, deep ML integration, and an intuitive design, it **learns and grows** with each interaction.
 <br>
+<br>
 
 ## 🤝 Contributing
 Want to contribute? Fork the repo, create a new branch, and submit a PR!
