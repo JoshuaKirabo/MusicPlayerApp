@@ -5,7 +5,7 @@ RhythmMind is an AI-driven music player designed primarily for users who store m
 <br>
 
 ## How RhythmMind Understands You
-** Instead of manually searching for songs, you can simply tell RhythmMind what you're feeling:
+Instead of manually searching for songs, you can simply tell RhythmMind what you're feeling:
 - "I'm in the mood for West Coast beats." – AI curates a playlist with tracks that match that style. 
 - "Give me songs that sound like Tattoo by Fireboy." – AI finds similar tracks based on melody, instrumentation, and rhythm. 
 - "I want acrobatic flows." – AI detects high-energy tracks with fast-paced rapping or vocals. 
