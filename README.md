@@ -13,12 +13,11 @@ Instead of manually searching for songs, you can simply tell RhythmMind what you
 <br>
 
 ## 🛠️ Tech Stack
-- **Programming Languages**: Python, JavaScript (React Native/Flutter TBD)
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Librosa (for audio processing)
+- **Programming Languages**: Electron.js, Python (FastAPI)
+- **Machine Learning**: Python, TensorFlow, PyTorch, scikit-learn, Librosa (for audio processing)
 - **Backend**: FastAPI/Django/Node.js (TBD)
-- **Database**: PostgreSQL, Firebase
-- **Cloud Services**: AWS/GCP/Azure (TBD)
-- **Mobile Development**: React Native/Flutter (TBD)  
+- **Database**: PostgreSQL
+- **Cloud Services**: Amazon SageMaker 
 <br>
 
 ## 🚀 Key Features
