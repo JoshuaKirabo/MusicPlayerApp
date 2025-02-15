@@ -6,10 +6,10 @@ RhythmMind is an AI-driven music player designed primarily for users who store m
 
 ## How RhythmMind Understands You
 ** Instead of manually searching for songs, you can simply tell RhythmMind what you're feeling:
-** - "I'm in the mood for West Coast beats." – AI curates a playlist with tracks that match that style. 
-** - "Give me songs that sound like Tattoo by Fireboy." – AI finds similar tracks based on melody, instrumentation, and rhythm. 
-** - "I want acrobatic flows." – AI detects high-energy tracks with fast-paced rapping or vocals. 
-** - "Take me back to summer 2021." – AI remembers the songs you loved at that time and recreates the vibe. 
+- "I'm in the mood for West Coast beats." – AI curates a playlist with tracks that match that style. 
+- "Give me songs that sound like Tattoo by Fireboy." – AI finds similar tracks based on melody, instrumentation, and rhythm. 
+- "I want acrobatic flows." – AI detects high-energy tracks with fast-paced rapping or vocals. 
+- "Take me back to summer 2021." – AI remembers the songs you loved at that time and recreates the vibe. 
 <br>
 
 ## 🛠️ Tech Stack
@@ -54,11 +54,11 @@ uvicorn app.main:app --reload
 <br>
 
 ## 📌 Future Enhancements
-- ** Spotify & Apple Music Integration
-- ** AI DJ Mode** – Intelligent real-time transitions between songs
-- ** Vocal Sentiment Analysis** – Analyzes lyrics sentiment for better recommendations
-- ** Social Playlist Sharing** – Personalized collaborative playlist generation
-- ** Adaptive Playlists for Activities – Auto-generates playlists for workouts, road trips, study sessions, and relaxation based on user preferences
+- Spotify & Apple Music Integration
+- AI DJ Mode** – Intelligent real-time transitions between songs
+- Vocal Sentiment Analysis** – Analyzes lyrics sentiment for better recommendations
+- Social Playlist Sharing** – Personalized collaborative playlist generation
+- Adaptive Playlists for Activities – Auto-generates playlists for workouts, road trips, study sessions, and relaxation based on user preferences
 <br>
 
 ## 🔥 Why RhythmMind?
