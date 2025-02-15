@@ -54,7 +54,7 @@ uvicorn app.main:app --reload
 
 ## 📌 Future Enhancements
 - Spotify & Apple Music Integration
-- AI DJ Mode** – Intelligent real-time transitions between songs
+- AI DJ Mode – Intelligent real-time transitions between songs
 - Vocal Sentiment Analysis** – Analyzes lyrics sentiment for better recommendations
 - Social Playlist Sharing** – Personalized collaborative playlist generation
 - Adaptive Playlists for Activities – Auto-generates playlists for workouts, road trips, study sessions, and relaxation based on user preferences
