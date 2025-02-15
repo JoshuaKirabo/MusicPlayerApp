@@ -1,7 +1,7 @@
 # 🎵 RhythmMind - AI-Powered Music Player  
 
 ## 📌 Overview
-RhythmMind is an AI-driven music player that dynamically curates playlists based on BPM, rhythm, and mood analysis. It leverages machine learning techniques to personalize music experiences, continuously optimizing recommendations through user interactions.  
+RhythmMind is an AI-driven music player that dynamically curates playlists based on BPM, rhythm, and mood analysis. It uses machine learning techniques to personalize music experiences, continuously optimizing recommendations through user interactions.  
 
 ## 🛠️ Tech Stack
 - **Programming Languages**: Python, JavaScript (React Native/Flutter TBD)
